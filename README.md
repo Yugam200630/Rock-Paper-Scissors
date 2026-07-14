@@ -3,7 +3,7 @@
 A Rock Paper Scissors game built with HTML and JavaScript as part of [The Odin Project](https://www.theodinproject.com) Foundations curriculum.
 
 ## Live Demo
-[View Live](#) (add your GitHub Pages link)
+[View Live](https://yugam200630.github.io/Rock-Paper-Scissors/)
 
 ## How to Play
 - Choose Rock, Paper or Scissors
